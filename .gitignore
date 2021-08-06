@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Desktop.ini
+desktop.ini
+
 # Distribution / packaging
 .Python
 build/
